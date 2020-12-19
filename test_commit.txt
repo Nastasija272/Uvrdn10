@@ -1,5 +1,0 @@
-Nisto nemas napisano!
-def hvala_rok:
-  pass
-def fala_matej:
-  pass
